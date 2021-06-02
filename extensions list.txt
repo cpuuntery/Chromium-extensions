@@ -1,0 +1,36 @@
+'Improve YouTube!' (Video & YouTube Tools)🎧
+AutoPagerize
+AutoplayStopper
+Chrome Better History
+Chrome extension source viewer
+Close Duplicate Tab
+Close Tabs to the Left
+Enable Copy
+enhanced-h264ify
+Github - Date of creation
+Google Translate
+Grammar and Spell Checker — LanguageTool
+IDM Integration Module
+jQuery Injector
+Linkclump
+LocalStorage Manager
+MILK — Cookie Manager
+NextPage - auto load next page
+No More Duplicates
+Open Multiple URLs
+Powerful Pixiv Downloader
+ProWritingAid Grammar Checker & Writing Coach
+Reload All Tabs
+Requestly: Redirect Url, Modify Headers etc
+Search all Tabs
+Shortkeys (Custom Keyboard Shortcuts)
+Stop AutoPlay Next for YouTube™
+uBlock Origin
+uMatrix
+Unhook - Remove YouTube Recommended Videos
+Violentmonkey
+Volume Master
+W3Techs Website Technology Information
+Wappalyzer
+Windscribe - Free Proxy and Ad Blocker
+XPath CSS Explorer
