@@ -15,7 +15,6 @@ jQuery Injector
 Linkclump
 LocalStorage Manager
 MILK — Cookie Manager
-NextPage - auto load next page
 No More Duplicates
 Open Multiple URLs
 Powerful Pixiv Downloader
@@ -34,3 +33,4 @@ W3Techs Website Technology Information
 Wappalyzer
 Windscribe - Free Proxy and Ad Blocker
 XPath CSS Explorer
+YouTube Redux
