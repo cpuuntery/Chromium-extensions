@@ -1,10 +1,9 @@
 'Improve YouTube!' (Video & YouTube Tools)🎧
 AutoPagerize
 AutoplayStopper
-Chrome Better History
 Chrome extension source viewer
-Close Duplicate Tab
 Close Tabs to the Left
+Clutter Free - Prevent duplicate tabs
 Enable Copy
 enhanced-h264ify
 Github - Date of creation
@@ -15,17 +14,15 @@ jQuery Injector
 Linkclump
 LocalStorage Manager
 MILK — Cookie Manager
-No More Duplicates
+NextPage - auto load next page
 Open Multiple URLs
 Powerful Pixiv Downloader
 ProWritingAid Grammar Checker & Writing Coach
 Reload All Tabs
 Requestly: Redirect Url, Modify Headers etc
-Search all Tabs
 Shortkeys (Custom Keyboard Shortcuts)
 Stop AutoPlay Next for YouTube™
 uBlock Origin
-uMatrix
 Unhook - Remove YouTube Recommended Videos
 Violentmonkey
 Volume Master
