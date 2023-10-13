@@ -1,14 +1,15 @@
 'Improve YouTube!' (Video & YouTube Tools)🎧
+Automa
 AutoPagerize
 AutoplayStopper
 Chrome extension source viewer
 Close Tabs to the Left
 Clutter Free - Prevent duplicate tabs
-Enable Copy
+Enhanced History
 enhanced-h264ify
 Github - Date of creation
 Google Translate
-Grammar and Spell Checker — LanguageTool
+Grammar & Spell Checker — LanguageTool
 IDM Integration Module
 jQuery Injector
 Linkclump
@@ -21,13 +22,16 @@ ProWritingAid Grammar Checker & Writing Coach
 Reload All Tabs
 Requestly: Redirect Url, Modify Headers etc
 Shortkeys (Custom Keyboard Shortcuts)
+SponsorBlock for YouTube - Skip Sponsorships
 Stop AutoPlay Next for YouTube™
+uBlock Origin
 uBlock Origin
 Unhook - Remove YouTube Recommended Videos
 Violentmonkey
 Volume Master
 W3Techs Website Technology Information
-Wappalyzer
+Wappalyzer - Technology profiler
 Windscribe - Free Proxy and Ad Blocker
 XPath CSS Explorer
+YouTube Redux
 YouTube Redux
