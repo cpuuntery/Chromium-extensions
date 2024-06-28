@@ -1,0 +1,41 @@
+'Improve YouTube!' (Video & YouTube Tools)🎧                                  [old  mv2 version]
+'Improve YouTube!' 🎧 (for YouTube & Videos)                                  [mv3 version]
+'Improve YouTube!' 🎧 (for YouTube & Videos)                                  [the last mv2 version]
+AI Grammar Checker & Paraphraser – LanguageTool
+AutoPagerize
+Automa                                                                       [the latest mv2 version]   
+Automa                                                                       [old  mv2 version]
+AutoplayStopper
+Chrome extension source viewer
+Chromium Web Store
+Close Tabs to the Left
+Clutter Free - Prevent duplicate tabs                                        [old  mv2 version]
+Clutter Free - Prevent duplicate tabs                                        [the latest mv2 version]
+Enhanced History
+Github - Date of creation
+Google Translate
+IDM Integration Module
+Linkclump
+LocalStorage Manager
+MILK — Cookie Manager
+NextPage - auto load next page
+Open Multiple URLs
+Powerful Pixiv Downloader
+ProWritingAid: Grammar Checker & Paraphrasing Tool
+Reload All Tabs
+Requestly: Redirect Url, Modify Headers etc
+Shortkeys (Custom Keyboard Shortcuts)
+SponsorBlock for YouTube - Skip Sponsorships                                 [the last mv2 version]                           
+SponsorBlock for YouTube - Skip Sponsorships                                 [mv3 version]                                  
+Stop AutoPlay Next for YouTube™
+Unhook - Remove YouTube Recommended & Shorts
+Violentmonkey
+Volume Master
+Windscribe - Free Proxy and Ad Blocker
+XPath CSS Explorer
+YouTube Redux
+YouTube Redux
+enhanced-h264ify                                                             [the last mv2 version]
+enhanced-h264ify                                                             [mv3 version]
+jQuery Injector
+uBlock Origin
