@@ -1,0 +1,11 @@
+elm = document.createElement('textarea');
+elm.setAttribute("id", "output");
+document.querySelector('body').prepend(elm)
+elm_list = document.querySelector("body > extensions-manager").shadowRoot.querySelector("#items-list").shadowRoot.querySelector("#content-wrapper > div:nth-child(3)").querySelectorAll("extensions-item");
+for ( let i=0; i < elm_list.length; i++)
+{
+document.querySelector("#output").textContent += elm_list[i].shadowRoot.querySelector("#name").textContent+ '	' + elm_list[i].id + '\n'
+}
+
+
+intersingly i need to change nth-child(3) to nth-child(4) to work thith chrome 124
