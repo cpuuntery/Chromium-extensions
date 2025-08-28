@@ -8,4 +8,5 @@ document.querySelector("#output").textContent += elm_list[i].shadowRoot.querySel
 }
 
 
-intersingly i need to change nth-child(3) to nth-child(4) to work thith chrome 124
+
+intersingly i need to change nth-child(3) to nth-child(4) to work with chrome 124
